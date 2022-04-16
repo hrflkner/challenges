@@ -1,4 +1,4 @@
-// Solution : For loop that counts down
+// Solution : For loop that counts down using i--
 
 const reverseSeq = (n) => {
     let arr = [];
