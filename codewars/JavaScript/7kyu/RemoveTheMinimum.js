@@ -12,3 +12,12 @@ function removeSmallest(numbers) {
         .slice(1);
 }
 console.log(removeSmallest([1, 2, 3, 4, 5]));
+
+function solution(str, ending) {
+    let n = ending.split('').length;
+    let m = str.slice(-n);
+    console.log(m);
+    return ending === m; // TODO: complete
+}
+
+console.log(solution('string', 'ing'));
