@@ -1,3 +1,5 @@
+// Solution : First Attempt
+
 function isSumOfCubes(s) {
     // Get Integer Subarrays
     let l = s
