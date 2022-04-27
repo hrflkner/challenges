@@ -46,6 +46,7 @@ function isSumOfCubes(s) {
     return res;
 }
 
+// Solution
 function isSumOfCubes(s) {
     let arr = [].concat(
         ...s
