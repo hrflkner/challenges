@@ -1,4 +1,4 @@
-// Solution : Looping
+// Solution 1 : Looping
 
 function isIsogram(str) {
     let s = str.toLowerCase();
@@ -13,7 +13,7 @@ function isIsogram(str) {
     return true;
 }
 
-// Solution : Using Sets and their length
+// Solution 2 : Using Sets and their length
 
 function isIsogram(str) {
     return new Set(str.toUpperCase()).size == str.length;
