@@ -13,7 +13,7 @@ function isIsogram(str) {
     return true;
 }
 
-// SOlution : Using Sets and their length
+// Solution : Using Sets and their length
 
 function isIsogram(str) {
     return new Set(str.toUpperCase()).size == str.length;
