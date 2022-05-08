@@ -1,3 +1,5 @@
+// Solution : Fix the broken code provided
+
 function howManyDalmatians(number) {
     var dogs = [
         'Hardly any',
