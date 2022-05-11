@@ -1,3 +1,5 @@
+// Solution : Ternary, Array Methods
+
 function toFreud(string) {
     return string === ''
         ? ''
