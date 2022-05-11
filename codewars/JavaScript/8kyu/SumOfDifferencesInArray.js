@@ -1,3 +1,5 @@
+// Solution : Reverse Sort and Loop
+
 function sumOfDifferences(arr) {
     arr.sort((a, b) => b - a);
     let res = 0;
