@@ -1,3 +1,5 @@
+// Solution : Conditional
+
 function howMuchILoveYou(nbPetals) {
     return [
         'I love you',
