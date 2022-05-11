@@ -1,3 +1,5 @@
+// Solution : .substr and .length
+
 function defineSuit(card) {
     if (card.substr(card.length - 1) === '♣') {
         return 'clubs';
