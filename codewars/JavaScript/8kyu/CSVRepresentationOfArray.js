@@ -16,7 +16,7 @@ function toCsvText(array) {
     return res;
 }
 
-// Solution : With .join
+// Solution : With .join('\n')
 
 function toCsvText(array) {
     return array.join('\n');
