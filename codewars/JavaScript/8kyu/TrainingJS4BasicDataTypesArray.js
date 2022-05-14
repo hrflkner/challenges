@@ -1,4 +1,4 @@
-// Solution
+// Solution : Fill in the blank
 
 function getLength(arr) {
     //return length of arr
