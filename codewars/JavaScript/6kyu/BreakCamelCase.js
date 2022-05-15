@@ -1,4 +1,4 @@
-// Solution
+// Solution : My Answer
 
 function solution(string) {
     return string
@@ -8,3 +8,9 @@ function solution(string) {
 }
 
 console.log(solution('stringTest'));
+
+// Solution 2 : Using .replace()
+
+function solution(string) {
+    return string.replace(/([A-Z])/g, ' $1');
+}
