@@ -1,4 +1,4 @@
-// Solution : Fix the broken code provided
+// Solution : Fix the broken code provided by the prompt.
 
 function howManyDalmatians(number) {
     var dogs = [
